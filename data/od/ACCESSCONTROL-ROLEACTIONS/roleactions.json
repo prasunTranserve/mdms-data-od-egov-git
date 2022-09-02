@@ -23385,7 +23385,31 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 3299,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 3299,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3299,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ACCREDITED_PERSONS_ADMIN",
+      "actionid": 3299,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ACCREDITED_PERSONS_ADMIN",
       "actionid": 3300,
       "actioncode": "",
       "tenantId": "od"
