@@ -13498,9 +13498,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=dateWiseEmployeeCollection",
+       "navigationURL": "wns/report?title=dateWiseEmployeeCollection",
        "path": "Water & Sewerage.W&S Reports.Date Wise Employee Collection",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3302,
@@ -13512,9 +13512,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=consumerPaymentHistory",
+       "navigationURL": "wns/report?title=consumerPaymentHistory",
        "path": "Water & Sewerage.W&S Reports.Consumer Payment History",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3303,
@@ -13526,9 +13526,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=billsummaryreport",
+       "navigationURL": "wns/report?title=billsummaryreport",
        "path": "Water & Sewerage.W&S Reports.Bill Summary Report",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3304,
@@ -13540,9 +13540,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=consumerMasterReport",
+       "navigationURL": "wns/report?title=consumerMasterReport",
        "path": "Water & Sewerage.W&S Reports.Consumer Master Report",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3305,
@@ -13554,9 +13554,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=waterMonthlyDemandReport",
+       "navigationURL": "wns/report?title=waterMonthlyDemandReport",
        "path": "Water & Sewerage.W&S Reports.Water Monthly Demand Report",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3306,
@@ -13568,9 +13568,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=newConsumerMonthlyReport",
+       "navigationURL": "wns/report?title=newConsumerMonthlyReport",
        "path": "Water & Sewerage.W&S Reports.New Consumer Monthly Report",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3307,
@@ -13582,9 +13582,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=consumerBillHistoryReport",
+       "navigationURL": "wns/report?title=consumerBillHistoryReport",
        "path": "Water & Sewerage.W&S Reports.Consumer Bill History Report",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3308,
@@ -13596,9 +13596,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=consumerHistoryReport",
+       "navigationURL": "wns/report?title=consumerHistoryReport",
        "path": "Water & Sewerage.W&S Reports.Consumer History Report",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3309,
@@ -13610,9 +13610,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/pt/report?title=taxCollectorWiseCollection",
+       "navigationURL": "pt/report?title=taxCollectorWiseCollection",
        "path": "Property Tax.PT Reports.Tax Collector Wise Collection",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3310,
@@ -13624,9 +13624,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/pt/report?title=ulbWiseTaxCollection",
+       "navigationURL": "pt/report?title=ulbWiseTaxCollection",
        "path": "Property Tax.PT Reports.Ulb Wise Tax Collection",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3311,
@@ -13638,9 +13638,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/pt/report?title=propertyWiseDemands",
+       "navigationURL": "pt/report?title=propertyWiseDemands",
        "path": "Property Tax.PT Reports.Property Wise Demands",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3312,
@@ -13652,9 +13652,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/pt/report?title=propertyWiseCollection",
+       "navigationURL": "pt/report?title=propertyWiseCollection",
        "path": "Property Tax.PT Reports.Property Wise Collection",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3313,
@@ -13666,9 +13666,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/pt/report?title=propertyDetails",
+       "navigationURL": "pt/report?title=propertyDetails",
        "path": "Property Tax.PT Reports.Property Details",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3314,
@@ -13680,9 +13680,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=connectionsEligibleForDemandGeneration",
+       "navigationURL": "wns/report?title=connectionsEligibleForDemandGeneration",
        "path": "Water & Sewerage.W&S Reports.Connection Eligible For DemandGeneration",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3315,
@@ -13694,9 +13694,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=schedulerBasedDemandsGeneration",
+       "navigationURL": "wns/report?title=schedulerBasedDemandsGeneration",
        "path": "Water & Sewerage.W&S Reports.Scheduler Based Demand Generation",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3316,
@@ -13708,9 +13708,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=monthWisePendingBillGeneration",
+       "navigationURL": "wns/report?title=monthWisePendingBillGeneration",
        "path": "Water & Sewerage.W&S Reports.Month Wise Pending Bill Generation",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     },
     {
        "id": 3317,
@@ -13722,9 +13722,9 @@
        "enabled": true,
        "serviceCode": "report-services",
        "code": "null",
-       "navigationURL": "/wns/report?title=employeeWiseWSCollection",
+       "navigationURL": "wns/report?title=employeeWiseWSCollection",
        "path": "Water & Sewerage.W&S Reports.Employee Wise WS Collection",
-       "leftIcon": "editor:collections"
+       "leftIcon": "action:assignment"
     }
 ]
 }
