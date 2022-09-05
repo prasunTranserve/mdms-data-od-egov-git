@@ -10726,6 +10726,37 @@
       "active": true,
       "type": "BPA",
       "validityPeriod": 5
+    },
+ {
+  "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST502",
+  "name": "Home Business/Home Udyog",
+  "uom": "SQFT",
+  "tempUom": null,
+  "applicationDocument": [
+    {
+      "applicationType": "NEW",
+      "documentList": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "documentList": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO",
+        "OLDLICENCENO"
+      ]
     }
+  ],
+  "verificationDocument": [
+    
+  ],
+  "active": true,
+  "type": "TL",
+  "validityPeriod": null
+}
   ]
 }
