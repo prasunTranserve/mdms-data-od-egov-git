@@ -23343,7 +23343,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "FSM_ADMIN",
+      "rolecode": "FSM_EMP_FSTPO",
       "actionid": 3293,
       "actioncode": "",
       "tenantId": "od"
